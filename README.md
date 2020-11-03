@@ -30,12 +30,20 @@ PB3 und PB4 sind disabled, denn PB3 (Counters.B) wird nicht benötigt (ist Messw
 OWServer Anzeige:
 
 address 1DA2D984000102F3
+
 counters.ALL 5, 136
+
 counters.A 5
+
 counters.B 136
+
 crc8 F3
+
 family 1D
+
 id A2D984000102
+
+
 
 Passt alles soweit, der Brenner lief testweise 55 Sekunden (counters.A ist 5), und bis zum Heizöl sind es  136 cm.
 
