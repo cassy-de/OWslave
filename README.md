@@ -1,6 +1,9 @@
 # OWslave
 OneWire Slave DIY Module
 
+<p align="center">
+  <img src="OWSlave2.png">
+</p>
 
 
  ATtiny 25, intern 8MHz
@@ -10,6 +13,11 @@ OneWire Slave DIY Module
  lfuse 62
  hfuse DF
  efuse FF
+
+<p align="center">
+  <img src="OWSlave.png">
+</p>
+
 
 
 -------------
